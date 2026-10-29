@@ -41,6 +41,13 @@ header a {
    color: #ffffff;
 }
 
+main {
+   max-width: 1100px;
+   /* margin: 0 auto centrerar main-elementet*/
+   margin: 0 auto;
+   padding: 24px;
+}
+
 nav ul {
    list-style: none;
    margin: 0;
