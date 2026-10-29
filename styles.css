@@ -17,3 +17,40 @@ body {
    background-color: #fff4f3;
    margin: 0;
 }
+
+p {
+   color: #222222;
+}
+
+h1, h2, h3 {
+   color: #3b2418;
+}
+
+header h1, header h2, header h3 {
+   color: #ffffff;
+}
+
+header {
+   padding: 16px 24px;
+   background-color: #5b3a29;
+   color: #ffffff;
+
+}
+
+header a {
+   color: #ffffff;
+}
+
+footer {
+   padding: 16px 24px;
+   background-color: #2b1c14;
+   color: #ffffff;
+}
+
+footer p {
+   color: #ffffff;
+}
+
+footer a {
+   color: #ffffff;
+}
