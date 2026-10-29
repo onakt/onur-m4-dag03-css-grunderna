@@ -47,6 +47,19 @@ nav ul {
    padding: 0;
 }
 
+article {
+   background-color: #ffffff;
+   border: 1px solid #e3d5c3;
+   border-radius: 8px;
+   padding: 16px;
+   margin-bottom: 16px;
+}
+
+article img {
+   max-width: 100%;
+   height: auto;
+}
+
 footer {
    padding: 16px 24px;
    background-color: #2b1c14;
