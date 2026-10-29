@@ -7,6 +7,13 @@
    TODO 6: main (centrerat, max-bredd)
    TODO 7: .knapp
 */
+
+/* Ändrar allt från standarden (content-box) till border-box, vilket gör att padding och border ingår i bredden */
+*, *::before, *::after {
+   box-sizing: border-box;
+}
+
 body {
    background-color: #fff4f3;
+   margin: 0;
 }
